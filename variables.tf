@@ -14,8 +14,8 @@ variable "environment" {
 
 variable "managedby" {
   type        = string
-  default     = "opsstation.com"
-  description = "ManagedBy, eg 'opsstation'."
+  default     = "yadavprakash.com"
+  description = "ManagedBy, eg 'yadavprakash'."
 }
 
 variable "repository" {
